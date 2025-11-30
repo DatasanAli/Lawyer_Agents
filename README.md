@@ -353,9 +353,9 @@ python runner.py
 
 ---
 
-## Example Queries
+## Example Query
 
-### Example 1: Tenant Rights
+### Tenant Rights 
 **Query:**
 ```
 "My landlord won't fix mold in my apartment. What are my rights?"
