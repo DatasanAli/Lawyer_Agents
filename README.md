@@ -24,7 +24,7 @@ This manual process creates several challenges:
 - **Citation complexity**: Ensuring proper legal citation formats and source attribution
 - **Recency concerns**: Missing recent bills, rulings, or statutory changes
 
-**Personal Motivation**: Built to help my mother-in-law, a small business attorney who balances her practice with managing multiple businesses. She is also having a hard time adopting AI to speed up her work. Watching her work late into the evenings conducting meticulous legal research inspired me to create a tool that could augment her expertise and help her harness the power of AI. 
+**Personal Motivation**: Built to help my mother-in-law, an attorney, who balances her practice in addition to managing multiple businesses. She is also having a hard time adopting AI to speed up her work. Watching her work late into the evenings conducting meticulous legal research inspired me to create a tool that could augment her expertise and help her harness the power of AI. 
 ---
 
 ## Solution Statement
