@@ -1,6 +1,6 @@
 # Lawyer Agents (Enterprise Agents)
 
-**Kaggle Agents Intensive Capstone Project**: [Competition Link] (https://www.kaggle.com/competitions/agents-intensive-capstone-project/)
+**Kaggle Agents Intensive Capstone Project**: (https://www.kaggle.com/competitions/agents-intensive-capstone-project/)
 
 A multi-agent system for legal research automation built using Google Agent Development Kit (ADK). The system orchestrates specialized AI agents to search, analyze, and synthesize legal information from google search and legal authoritative sources.
 
